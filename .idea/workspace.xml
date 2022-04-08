@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1172a576-4ad5-4740-8699-673aa09c13dd" name="Changes" comment="fart">
-      <change afterPath="$PROJECT_DIR$/bhy.py" afterDir="false" />
-    </list>
+    <list default="true" id="1172a576-4ad5-4740-8699-673aa09c13dd" name="Changes" comment="fart" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="fart" />
+        <entry key="$PROJECT_DIR$" value="ferty" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,7 +26,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27Vp5O0WkJ2ycC6B6Wsk0Z0FaJE" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -63,12 +61,30 @@
       <option name="project" value="LOCAL" />
       <updated>1649415430549</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fart">
+      <created>1649415712436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649415712436</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="4ccefb59-0a9f-4843-93d7-a2a8840085dd">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -92,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New file" />
     <MESSAGE value="ferty" />
-    <option name="LAST_COMMIT_MESSAGE" value="ferty" />
+    <MESSAGE value="fart" />
+    <option name="LAST_COMMIT_MESSAGE" value="fart" />
   </component>
 </project>
